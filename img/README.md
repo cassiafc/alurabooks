@@ -19,7 +19,7 @@
 
 ## Descrição do Projeto
 
-Esta é a landing page do 'Alura plus', contendo as informações de cada plano, valores e como assinar cada um ou todos eles.
+Projeto alinhado com os padrões passados ​​pelo figma, focado em responsividade para todos os dispositivos.
 
 Esta página foi desenvolvida durante o curso 'HTML e CSS: praticando HTML/CSS' na escola de tecnologia Alura .
 
