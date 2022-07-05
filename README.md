@@ -1,9 +1,15 @@
-<h1 align="center">Alura Plus</h1>
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
+<h1 align="center">Alura Books - Desktop</h1>
 
 ![logo.svg](/img/AluraBooks.png)
 
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<h1 align="center">Alura Books- Mobile</h1>
+
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/105315548/177237187-de66255d-01a5-4ddf-9e7b-cd42a56128fb.png">
 </p>
 
 ## Tópicos
@@ -11,10 +17,6 @@
 - `Descrição do Projeto`
 - `Tecnologias usadas`
 - `Acesse o Projeto`
-
-
-
-
 
 
 ## Descrição do Projeto
@@ -32,11 +34,6 @@ Esta página foi desenvolvida durante o curso 'HTML e CSS: praticando HTML/CSS' 
 
 
 
-## Acesse o Projeto
-
-- `Mobile`
-- `Tablet`
-- `Descktop`
 
 
 
